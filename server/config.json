@@ -4,7 +4,7 @@
         "port": 3306,
         "user": "root",
         "password": "",
-        "database": "user-manage"
+        "database": "intprog"
     },
     "secret": "Hello World",
     "emailFrom": "info@node-mysql-signup-verification-api.com",
@@ -12,8 +12,8 @@
         "host": "smtp.ethereal.email",
         "port": 587,
         "auth": {
-            "user": "lauryn46@ethereal.email",
-            "pass": "SVxkqcBGbgTWNAgAZd"
+            "user": "alexa.nikolaus80@ethereal.email",
+            "pass": "NzTPm2rfzwcxWN9jhN"
         }
     }
 }
